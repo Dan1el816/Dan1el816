@@ -10,10 +10,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D9E75,100:378ADD&height=60&section=header&text=Sobre%20Mim&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-- 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFRN
-- 💻 **Interesses:** Desenvolvimento FullStack, front-end e back-end
-- 🚀 **Objetivo:** Aprender e evoluir constantemente na área de desenvolvimento
-- 🎨 **Extra:** Curioso por design de interfaces (Figma)
+- **Formação:** Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFRN
+- **Interesses:** Desenvolvimento FullStack, front-end e back-end
+- **Objetivo:** Aprender e evoluir constantemente na área de desenvolvimento
+- **Extra:** Curioso por design de interfaces 
 
 <br/>
 
@@ -33,10 +33,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D9E75,100:378ADD&height=60&section=header&text=Atualmente%20Aprendendo&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-- 📚 Aprofundando conhecimentos em **JavaScript** e frameworks front-end
-- 🛠️ Praticando lógica de programação e estrutura de dados
-- 🌐 Explorando desenvolvimento back-end
-- 🎯 Meta: publicar meus primeiros projetos completos em breve
+- Aprofundando conhecimentos em **JavaScript** e frameworks front-end
+- Praticando lógica de programação e estrutura de dados
+- Explorando desenvolvimento back-end
+- Meta: publicar meus primeiros projetos completos em breve
 
 <br/>
 
