@@ -31,17 +31,12 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D9E75,100:378ADD&height=60&section=header&text=Projetos%20em%20Destaque&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D9E75,100:378ADD&height=60&section=header&text=Atualmente%20Aprendendo&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-<p align="center">
-  <!-- Troque os links abaixo pelos seus repositórios reais -->
-  <a href="https://github.com/Dan1el816/SEU-REPOSITORIO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dan1el816&repo=SEU-REPOSITORIO-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Dan1el816/SEU-REPOSITORIO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dan1el816&repo=SEU-REPOSITORIO-2&theme=tokyonight" />
-  </a>
-</p>
+- 📚 Aprofundando conhecimentos em **JavaScript** e frameworks front-end
+- 🛠️ Praticando lógica de programação e estrutura de dados
+- 🌐 Explorando desenvolvimento back-end
+- 🎯 Meta: publicar meus primeiros projetos completos em breve
 
 <br/>
 
@@ -67,8 +62,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D85A30,100:D4537E&height=60&section=header&text=Estat%C3%ADsticas&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dan1el816&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1el816&theme=tokyonight&layout=compact&langs_count=9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dan1el816&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1el816&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400" width="48%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1D9E75&height=100&section=footer" width="100%"/>
